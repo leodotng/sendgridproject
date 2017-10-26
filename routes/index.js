@@ -11,7 +11,7 @@ router.get('/', function(req, res, next) {
 const sgMail = require('@sendgrid/mail');
 sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 const msg = {
-  to: 'andfwas@gmail.com',
+  to: 'leong.jo@gmail.com',
   from: 'account-verification@waitticket.com',
   subject: 'test',
   text: 'and easy to do anywhere, even with Node.js',
