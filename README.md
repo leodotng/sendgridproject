@@ -10,4 +10,4 @@ To integrate Sendgrid Email API to provide automated email account confirmations
 
 
 ## waiTTicket Project Repo
-https://github.com/geralle/waitticket
+![https://github.com/geralle/waitticket](https://github.com/geralle/waitticket)
