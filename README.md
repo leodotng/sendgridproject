@@ -3,8 +3,10 @@
 ## Mission
 To integrate Sendgrid Email API to provide automated email account confirmations
 
-### Sendgrid Node.js documentation(https://sendgrid.com/docs/Integrate/Code_Examples/v3_Mail/nodejs.html)
-![Email confirmation screenshot](https://github.com/leodotng/sendgridproject/blob/master/public/images/email.png)
+### Sendgrid Node.js documentation
+![](https://sendgrid.com/docs/Integrate/Code_Examples/v3_Mail/nodejs.html)
+
+(https://github.com/leodotng/sendgridproject/blob/master/public/images/email.png)
 
 
 
